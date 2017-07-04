@@ -1,0 +1,11 @@
+C:\Users\Nik\Desktop\ThumbDrive\ESD-USB\School\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\Nik\Desktop\ThumbDrive\ESD-USB\School\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Nik\Desktop\ThumbDrive\ESD-USB\School\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Nik\Desktop\ThumbDrive\ESD-USB\School\Poker\Poker\bin\Debug\Poker.xml
+C:\Users\Nik\Desktop\ThumbDrive\ESD-USB\School\Poker\Poker\obj\Debug\Poker.vbprojResolveAssemblyReference.cache
+C:\Users\Nik\Desktop\ThumbDrive\ESD-USB\School\Poker\Poker\obj\Debug\Poker.frmPoker.resources
+C:\Users\Nik\Desktop\ThumbDrive\ESD-USB\School\Poker\Poker\obj\Debug\Poker.Resources.resources
+C:\Users\Nik\Desktop\ThumbDrive\ESD-USB\School\Poker\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+C:\Users\Nik\Desktop\ThumbDrive\ESD-USB\School\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Nik\Desktop\ThumbDrive\ESD-USB\School\Poker\Poker\obj\Debug\Poker.xml
+C:\Users\Nik\Desktop\ThumbDrive\ESD-USB\School\Poker\Poker\obj\Debug\Poker.pdb
